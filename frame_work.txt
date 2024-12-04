@@ -1,0 +1,6 @@
+djangao
+angular
+wordpress
+springboot
+oodo
+fastapi
